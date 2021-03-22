@@ -11,17 +11,17 @@ Digital Book Catalogue is a book information storing management application usin
 
 The records consist of Book's Title, Year of publication, Author name, ISBN and Description of a Book are stored in 'data.db' database file.
 
-## Files: 
--- frontend.py --
+## Files -
+###### frontend.py\
 Tkinter Graphical User Interface code area. Connects to the backend.py to perform the functionality of the application.
 
--- backend.py --
+###### backend.py\ 
 The back-end of the Graphical User Interface where the logic exists. Connects and creates database table. Inserts, Views, Updates, Searches, Deletes database entries.
 
--- data.db --
+###### data.db\ 
 An SQLite3 database file which stores and retrieves the user entries in the application.
 
--- rough idea.png --
+###### rough idea.png\
 A basic idea of project structure.
 
 ## Output :
