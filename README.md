@@ -31,7 +31,7 @@ Main Screen
 Main Screen after clicking on the **View Book List** button  
 <img width="647" alt="After clicking on 'View Book List' button" src="https://user-images.githubusercontent.com/67758900/112047239-0b2e0f80-8b73-11eb-9f63-c26eea7c95ac.PNG">
 
-By clicking on any book record details automatically get filled into input boxes  
+By clicking on any book record, details automatically get filled into input boxes  
 <img width="648" alt="After clicking on random book record the details automatically gets filled into input boxes" src="https://user-images.githubusercontent.com/67758900/112047421-47617000-8b73-11eb-8efb-b127020ea656.PNG">
 
 Output after clicking on the **Search Entry** button for exploring records for a Book's Title, Year of publication, Author name, ISBN  
